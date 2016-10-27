@@ -19,7 +19,7 @@ int main()
 		first = result;
 		cout << "degerler :" << result << endl;
 
-		if (result % 2 == 0) {
+		if (result % 2 == 0) {  
 			sum = sum + result;
 		}
 		
