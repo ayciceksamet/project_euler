@@ -4,7 +4,7 @@
 //1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ... by considering the terms in the 
 //fibonacci sequence whose values do not exceed four million, find the sum of 
 //the even - valued terms
-
+/*
 #include <iostream>
 
 using namespace std;
@@ -34,4 +34,4 @@ int main()
 	system("pause");
     return 0;
 }
-
+*/
